@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/gpBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/gpBlog/" rel="alternate" type="text/html" /><updated>2019-10-05T17:15:12+01:00</updated><id>http://localhost:4000/gpBlog/feed.xml</id><title type="html">Good Policies Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Cofounder Job Description</title><link href="http://localhost:4000/gpBlog/job/ad/2019/09/27/Cofounder.html" rel="alternate" type="text/html" title="Cofounder Job Description" /><published>2019-09-27T22:24:32+01:00</published><updated>2019-09-27T22:24:32+01:00</updated><id>http://localhost:4000/gpBlog/job/ad/2019/09/27/Cofounder</id><content type="html" xml:base="http://localhost:4000/gpBlog/job/ad/2019/09/27/Cofounder.html">&lt;h2 id=&quot;co-founder-for-tobacco-control-charity&quot;&gt;&lt;strong&gt;Co-founder for Tobacco Control Charity&lt;/strong&gt;&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-18T00:09:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Good Policies Blog</title><subtitle>Blog for Good Policies. A new charity looking to improve public health policies in low and middle income countries to bring impact at scale. Currently focussed on tobacco control measures (specifically tobacco taxation).</subtitle><entry><title type="html">Cofounder Job Description</title><link href="http://localhost:4000/job/ad/2019/09/27/Cofounder.html" rel="alternate" type="text/html" title="Cofounder Job Description" /><published>2019-09-27T22:24:32+01:00</published><updated>2019-09-27T22:24:32+01:00</updated><id>http://localhost:4000/job/ad/2019/09/27/Cofounder</id><content type="html" xml:base="http://localhost:4000/job/ad/2019/09/27/Cofounder.html">&lt;!----- Conversion time: 0.648 seconds.
+
+
+Using this Markdown file:
+
+1. Cut and paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β17
+* Mon Oct 14 2019 07:10:57 GMT-0700 (PDT)
+* Source doc: https://docs.google.com/open?id=1VuzuTm3tLrYGnGLeuPmPbRst48tCK9_5ol90zzh83H8
+-----&gt;
+
+&lt;h2 id=&quot;co-founder-for-good-policies&quot;&gt;&lt;strong&gt;Co-founder for Good Policies&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;h2 id=&quot;the-position&quot;&gt;&lt;strong&gt;The position&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;I am seeking out an altruistic and driven co-founder who is keen to maximise their counterfactual impact by starting high impact charities. I have decided to found a tobacco taxation charity, advocating low and middle-income countries (LMIC) to increase tobacco taxes. The &lt;a href=&quot;https://www.who.int/tobacco/mpower/raise_taxes/en/&quot;&gt;World Health Organization&lt;/a&gt; and &lt;a href=&quot;https://www.copenhagenconsensus.com/publication/chronic-disease&quot;&gt;Copenhagen Consensus, state&lt;/a&gt; that this is the most cost-effective policy intervention that they are aware of in global health and you can read a summary of Charity Entrepreneurship’s research on tobacco taxation &lt;a href=&quot;http://www.charityentrepreneurship.com/blog/tobacco-taxation&quot;&gt;here&lt;/a&gt; and GiveWell’s conversation notes where they discuss tobacco taxation &lt;a href=&quot;https://files.givewell.org/files/conversations/Yolonda_Richardson_12-12-17_(public).pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am seeking out an altruistic and driven co-founder who is keen to maximise their counterfactual impact by starting high impact charities. I have decided to found a charity with a current focus on tobacco control, advocating to low and middle-income countries to increase tobacco taxes. The &lt;a href=&quot;https://www.who.int/tobacco/mpower/raise_taxes/en/&quot;&gt;World Health Organization&lt;/a&gt; and &lt;a href=&quot;https://www.copenhagenconsensus.com/publication/chronic-disease&quot;&gt;Copenhagen Consensus, state&lt;/a&gt; that this is the amongst the most cost-effective policies that they are aware of in global health and you can read a summary of Charity Entrepreneurship’s research on tobacco taxation &lt;a href=&quot;http://www.charityentrepreneurship.com/blog/tobacco-taxation&quot;&gt;here&lt;/a&gt; and GiveWell’s conversation notes where they discuss tobacco taxation &lt;a href=&quot;https://files.givewell.org/files/conversations/Yolonda_Richardson_12-12-17_(public).pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Our research and cost effectiveness analysis suggests that this is likely to be the most cost-effective policy to mitigate the disease burden from non-communicable diseases, which has been rigorously examined, but the organisation is amenable to other policies if a strong case can be made that they are likely to be more cost-effective.&lt;/p&gt;
+&lt;p&gt;Our research and cost effectiveness analysis suggests that this is likely to be the most cost-effective policy that has been rigorously examined that mitigates the disease burden of non-communicable diseases. The organisation is amenable to other interventions if a strong case can be made that they are likely to be more cost-effective.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;
 
@@ -20,6 +37,8 @@
 
 &lt;h2 id=&quot;requirements&quot;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;
 
+&lt;p&gt;&lt;em&gt;An ideal applicant would have most of these things&lt;/em&gt;&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Passion: Deep enthusiasm about our opportunity to improve people’s lives&lt;/li&gt;
   &lt;li&gt;Perseverance: Dedication to the long-term progress and sustainability of the charity and its intermediate hurdles&lt;/li&gt;
@@ -29,14 +48,18 @@
 
 &lt;h2 id=&quot;desirable-attributes&quot;&gt;&lt;strong&gt;Desirable Attributes:&lt;/strong&gt;&lt;/h2&gt;
 
+&lt;p&gt;&lt;em&gt;An ideal applicant &lt;strong&gt;might&lt;/strong&gt; have &lt;strong&gt;one&lt;/strong&gt; or more of these things&lt;/em&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Experience working in South Asia in global health or poverty alleviation&lt;/li&gt;
-  &lt;li&gt;Experience in advocacy roles in low and middle-income countries (connections to government would be particularly valuable)&lt;/li&gt;
   &lt;li&gt;Ability to effectively grasp, critique, and present academic literature that will guide team decisions.&lt;/li&gt;
+  &lt;li&gt;Understanding of core Effective Altruism principles&lt;/li&gt;
   &lt;li&gt;The ability to work out of London in the same office as the existing co-founder&lt;/li&gt;
   &lt;li&gt;Desire to travel abroad when necessary&lt;/li&gt;
-  &lt;li&gt;Understanding of core Effective Altruism principles&lt;/li&gt;
   &lt;li&gt;Experience managing sizeable budgets&lt;/li&gt;
+  &lt;li&gt;Previous experience at a think tank&lt;/li&gt;
+  &lt;li&gt;Experience working in South Asia in global health or poverty alleviation&lt;/li&gt;
+  &lt;li&gt;Experience in advocacy roles in low and middle-income countries (connections to government would be particularly valuable)&lt;/li&gt;
+  &lt;li&gt;Advanced degree (Masters or PhD or equivalent) in economics and an interest in development economics&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;benefits&quot;&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
@@ -46,29 +69,105 @@
   &lt;li&gt;High autonomy and creativity in shaping your role and the development of the charity&lt;/li&gt;
   &lt;li&gt;Pay according to your fit&lt;/li&gt;
   &lt;li&gt;Flexible work environment and schedule&lt;/li&gt;
-  &lt;li&gt;Skill development in entrepreneurship, management, and institutional collaboration&lt;/li&gt;
   &lt;li&gt;Rewarding team environment - this will be meaningful, interesting, and fun!&lt;/li&gt;
   &lt;li&gt;Integration with the effective altruism community&lt;/li&gt;
-  &lt;li&gt;Working closely with a passionate co-founder deeply interested in these ideas&lt;/li&gt;
+  &lt;li&gt;Opportunity to travel and speak at conferences&lt;/li&gt;
   &lt;li&gt;Mentoring and support from a network of experienced charity founders and executives&lt;/li&gt;
+  &lt;li&gt;Skill development in entrepreneurship, management, and institutional collaboration&lt;/li&gt;
+  &lt;li&gt;Working closely with a passionate co-founder deeply interested in these ideas&lt;/li&gt;
   &lt;li&gt;A cause you believe in and a risk worth taking&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;applying&quot;&gt;Applying&lt;/h4&gt;
+&lt;p&gt;Applying&lt;/p&gt;
 
-&lt;p&gt;Your application should include two files: your resume and a document containing the following. Please complete this &lt;a href=&quot;https://forms.gle/a97MRh1SffkjtGn88&quot;&gt;form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Your application should include two files: your resume and a document containing the following. Please complete this &lt;a href=&quot;https://forms.gle/UmLwcriJLZWVuvwb9&quot;&gt;form&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;An evaluation of the above needs and wants that you meet (please be honest - good applicants will not meet all the criteria, but it will help to understand fit before interviews)&lt;/li&gt;
-  &lt;li&gt;2 short answer questions about the impact of advocacy (1-2 paragraphs each)
-    &lt;ol&gt;
-      &lt;li&gt;Make a strong argument for why advocacy based interventions might be amongst the most impactful&lt;/li&gt;
-      &lt;li&gt;Make a strong argument for why advocacy based interventions might not be amongst the most impactful&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A cover letter expressing what you would bring to the team&lt;/li&gt;
+  &lt;li&gt;A cover letter expressing  what you would bring to the team&lt;/li&gt;
+  &lt;li&gt;A CV (please feel free to supplement this with a linkedin profile/personal website/github/etc. as necessary)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Application deadline : 21/09/19&lt;/p&gt;
+&lt;p&gt;Application deadline : Rolling (Email &lt;a href=&quot;mailto:hello@goodpolicies.org&quot;&gt;hello@goodpolicies.org&lt;/a&gt; for the latest information)&lt;/p&gt;
 
-&lt;p&gt;Want to learn more about who I am? &lt;a href=&quot;https://calendly.com/parikhcaleb/co-founder-info-slot&quot;&gt;Let’s chat&lt;/a&gt; or you can email me at &lt;a href=&quot;mailto:parikcaleb@gmail.com&quot;&gt;parikcaleb@gmail.com&lt;/a&gt; and to give you a sense of what I’ve done, you can view &lt;a href=&quot;https://www.linkedin.com/in/caleb-parikh/&quot;&gt;my LinkedIn profile&lt;/a&gt;. I’m excited to pursue this opportunity and look forward to reading your application!&lt;/p&gt;</content><author><name></name></author><summary type="html">Co-founder for Tobacco Control Charity</summary></entry></feed>
+&lt;p&gt;Want to learn more about this opportunity? &lt;a href=&quot;https://calendly.com/parikhcaleb/co-founder-info-slot&quot;&gt;Let’s chat&lt;/a&gt; or you can email me at &lt;a href=&quot;mailto:parikcaleb@gmail.com&quot;&gt;parikcaleb@gmail.com&lt;/a&gt;. I’m excited to pursue this opportunity and look forward to reading your application!&lt;/p&gt;
+
+&lt;!-- Docs to Markdown version 1.0β17 --&gt;</content><author><name></name></author><summary type="html">&amp;lt;!—– Conversion time: 0.648 seconds.</summary></entry><entry><title type="html">Communications Intern Job Description</title><link href="http://localhost:4000/job/ad/2019/09/27/CommsIntern.html" rel="alternate" type="text/html" title="Communications Intern Job Description" /><published>2019-09-27T22:24:32+01:00</published><updated>2019-09-27T22:24:32+01:00</updated><id>http://localhost:4000/job/ad/2019/09/27/CommsIntern</id><content type="html" xml:base="http://localhost:4000/job/ad/2019/09/27/CommsIntern.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Research Analyst Intern Job Description</title><link href="http://localhost:4000/job/ad/2019/09/27/ResAnalystIntern.html" rel="alternate" type="text/html" title="Research Analyst Intern Job Description" /><published>2019-09-27T22:24:32+01:00</published><updated>2019-09-27T22:24:32+01:00</updated><id>http://localhost:4000/job/ad/2019/09/27/ResAnalystIntern</id><content type="html" xml:base="http://localhost:4000/job/ad/2019/09/27/ResAnalystIntern.html">&lt;!----- Conversion time: 0.727 seconds.
+
+
+Using this Markdown file:
+
+1. Cut and paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β17
+* Thu Oct 17 2019 06:50:26 GMT-0700 (PDT)
+* Source doc: https://docs.google.com/open?id=1gARBvMct2mWE0rBeNUAsiYREILVMviUJ5r-9vhm46Pw
+-----&gt;
+
+&lt;h1 id=&quot;research-analyst-internship&quot;&gt;Research Analyst Internship&lt;/h1&gt;
+
+&lt;h3 id=&quot;about-good-policies&quot;&gt;About Good Policies&lt;/h3&gt;
+
+&lt;p&gt;A promising startup from Charity Entrepreneurships 2019 batch is investigating health policy changes that have been shown to be exceptionally cost effective. Increasing taxes on tobacco products is likely to be the best way of reducing tobacco consumption, and yet this is vastly underutilised by governments globally. The &lt;a href=&quot;https://www.who.int/tobacco/mpower/raise_taxes/en/&quot;&gt;World Health Organization&lt;/a&gt; and &lt;a href=&quot;https://www.copenhagenconsensus.com/publication/chronic-disease&quot;&gt;Copenhagen Consensus&lt;/a&gt; state that this is among the most cost effective policy interventions in global health that they have evaluated. You can read a summary of Charity Entrepreneurships research &lt;a href=&quot;http://www.charityentrepreneurship.com/blog/tobacco-taxation&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;p&gt;Researching promising policy opportunities, including analyzing academic research and developing cost-effectiveness estimates&lt;/p&gt;
+
+&lt;p&gt;Assisting development of monitoring and evaluation strategy for campaigns&lt;/p&gt;
+
+&lt;p&gt;Review research write ups and writing up own research for communication with a broad audience&lt;/p&gt;
+
+&lt;p&gt;Miscellaneous duties depending on individual preferences and abilities, including communicating with donors and media, publishing content on our website and small operations based tasks&lt;/p&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bachelor’s degree (or higher) in economics, mathematics, statistics or other quantitative field or equivalent experience.&lt;/li&gt;
+  &lt;li&gt;Passionate about policy/advocacy/global health and doing high impact work&lt;/li&gt;
+  &lt;li&gt;Understanding of concepts such as expected value and counterfactuals&lt;/li&gt;
+  &lt;li&gt;Optimistic about the benefits of starting new charities and the power of advocacy&lt;/li&gt;
+  &lt;li&gt;Able to put in a minimum of 5 hours a week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desirable-attributes&quot;&gt;Desirable attributes&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Interested in global health as a career&lt;/li&gt;
+  &lt;li&gt;Interested in tobacco taxation specifically&lt;/li&gt;
+  &lt;li&gt;High ability to pay attention to written details&lt;/li&gt;
+  &lt;li&gt;Able to put in 10+ hours a week&lt;/li&gt;
+  &lt;li&gt;Available during the GMT time zone work day&lt;/li&gt;
+  &lt;li&gt;Experience with cost-effectiveness analysis&lt;/li&gt;
+  &lt;li&gt;Experience in advocacy/lobbying&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A team that cares about you and your work during and after the internship&lt;/li&gt;
+  &lt;li&gt;Interesting,exciting and impactful work&lt;/li&gt;
+  &lt;li&gt;Learn the benefits and best fit for people founding charities, will help when applying to CE’s incubation program and other EA orgs&lt;/li&gt;
+  &lt;li&gt;Experience with an EA and CE backed nonprofit&lt;/li&gt;
+  &lt;li&gt;Flexible working hours and location.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;details&quot;&gt;Details&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Internships can last from two to six months, depending on the candidate’s situation&lt;/li&gt;
+  &lt;li&gt;Internships can be remote or located at our London office&lt;/li&gt;
+  &lt;li&gt;Internships are generally unpaid, but exceptions could be made if the candidate is a suitable fit.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;to-apply&quot;&gt;To apply&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Please fill out this &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSexXolbhWoKAJQH-YCrcvgdRF_-TM2GzDAjPl4rmnidUbduvQ/viewform?usp=sf_link&quot;&gt;form&lt;/a&gt; to apply&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- Docs to Markdown version 1.0β17 --&gt;</content><author><name></name></author><summary type="html">&amp;lt;!—– Conversion time: 0.727 seconds.</summary></entry></feed>
