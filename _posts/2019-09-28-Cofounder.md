@@ -107,7 +107,7 @@ Application deadline : Rolling (Email [hello@goodpolicies.org](mailto:hello@good
 
 
 
-Want to learn more about this opportunity? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikcaleb@gmail.com](mailto:parikcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
+Want to learn more about this opportunity? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikcaleb@gmail.com](mailto:parikhcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
 
 
 
