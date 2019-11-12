@@ -104,7 +104,7 @@ Your application should include two files: your resume and a document containing
 1. A cover letter expressing  what you would bring to the team
 2. A CV (please feel free to supplement this with a linkedin profile/personal website/github/etc. as necessary)
 
-Application deadline : Rolling (Email [hello@goodpolicies.org](mailto:hello@goodpolicies.org) for the latest information)
+Application deadline : Rolling (Email [caleb.parikh@goodpolicies.org](mailto:caleb.parikh@goodpolicies.org) for the latest information)
 
 
 
