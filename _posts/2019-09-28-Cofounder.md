@@ -65,32 +65,29 @@ _An ideal applicant would have most of these things_
 _An ideal applicant **might** have **one** or more of these things_
 
 
-
+*   Previous experience in advocacy/lobbying (e.g. think tank, civil service, civil society organisation)
+*   Experience working in LMICs in global health or poverty alleviation
+*   Advanced degree (Masters or PhD or equivalent) in economics and an interest in development economics
 *   Ability to effectively grasp, critique, and present academic literature that will guide team decisions.
-*   Understanding of core Effective Altruism principles
-*   The ability to work out of London in the same office as the existing co-founder
 *   Desire to travel abroad when necessary
 *   Experience managing sizeable budgets
-*   Previous experience at a think tank
-*   Experience working in South Asia in global health or poverty alleviation
-*   Experience in advocacy roles in low and middle-income countries (connections to government would be particularly valuable)
-*   Advanced degree (Masters or PhD or equivalent) in economics and an interest in development economics
+*   The ability to work out of London in the same office as the existing co-founder
+*   Understanding of core Effective Altruism principles
+
 
 
 ## **Benefits**
 
-
-
-*   Opportunity for highly impactful work whilst building career capital
 *   High autonomy and creativity in shaping your role and the development of the charity
+* Opportunity for high impact work
 *   Pay according to your fit
-*   Flexible work environment and schedule
+*   Flexible work environment and schedule (remote work possible)
 *   Rewarding team environment - this will be meaningful, interesting, and fun!
-*   Integration with the effective altruism community
 *   Opportunity to travel and speak at conferences
 *   Mentoring and support from a network of experienced charity founders and executives
 *   Skill development in entrepreneurship, management, and institutional collaboration
 *   Working closely with a passionate co-founder deeply interested in these ideas
+*   Opportunity for highly impactful work whilst building career capital
 *   A cause you believe in and a risk worth taking
 
 
@@ -101,7 +98,7 @@ Your application should include two files: your resume and a document containing
 
 
 
-1. A cover letter expressing  what you would bring to the team
+1. A cover letter expressing what you would bring to the team
 2. A CV (please feel free to supplement this with a linkedin profile/personal website/github/etc. as necessary)
 
 Application deadline : Rolling (Email [caleb.parikh@goodpolicies.org](mailto:caleb.parikh@goodpolicies.org) for the latest information)
